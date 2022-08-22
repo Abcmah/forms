@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fbfdda7.css",
+    "main.js": "/static/js/main.f108f041.js",
+    "static/js/787.845e85f3.chunk.js": "/static/js/787.845e85f3.chunk.js",
+    "static/media/rahisi.png": "/static/media/rahisi.891bfd67881d5e1f35c3.png",
+    "static/media/travel.png": "/static/media/travel.a2061dd5a74608cc3c17.png",
+    "static/media/logo3.png": "/static/media/logo3.5a77b00aa19c6fe12d82.png",
+    "index.html": "/index.html",
+    "main.5fbfdda7.css.map": "/static/css/main.5fbfdda7.css.map",
+    "main.f108f041.js.map": "/static/js/main.f108f041.js.map",
+    "787.845e85f3.chunk.js.map": "/static/js/787.845e85f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbfdda7.css",
+    "static/js/main.f108f041.js"
+  ]
+}
